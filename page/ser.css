@@ -1,0 +1,20 @@
+.bcky {
+    background-image: url("..//img/abstract-3866486_1920.jpg");
+    /*background-image: url("..//img/tre.jpg")*/
+    ;
+}
+
+.tan {
+    color: blue;
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    height: 200pxpx;
+}
+
+h1 {
+    color: blue;
+}
